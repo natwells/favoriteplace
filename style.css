@@ -1,0 +1,35 @@
+
+
+
+
+h1{
+    text-align: center;
+    margin: auto;
+    color:165,165,141;
+}
+
+
+.media-body{
+    margin-left: 25px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: tan;
+}
+
+p{
+    align-self: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: tan; 
+    font-weight: bold;
+}
+iframe{
+align-self: center;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 25px;
+margin-bottom: 100px;
+}
